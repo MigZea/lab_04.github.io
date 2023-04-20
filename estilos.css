@@ -1,0 +1,82 @@
+body{
+    background: #000000;
+background: -webkit-linear-gradient(to right, #131010, #000000);
+background: linear-gradient(to right, #131010, #ff0000);
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    border: #2980B9;
+    border-radius: 30px;
+    border-radius: 5px;
+    margin: auto;
+    color:#FFFFFF;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-style: inherit;
+    font-variant: normal;
+}
+h3{
+    text-align: justify;
+    border: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-variant: normal;
+    color:#FFFFFF;
+}
+.img{
+    text-align: center;
+    margin: 40px;
+    animation: float 3s linear infinite;
+    border-radius: 50%;
+    float:center;
+}
+@keyframes float{
+    0%, 100%{
+        transform: translateY(0rem);
+    }
+    50%{
+        transform: translateY(-1.5rem);
+    }
+}
+.Text1{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: normal;
+    color:#FFFFFF;
+}
+.Text2{
+    text-align: justify;
+    color:#FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: normal;
+}
+.Text3{
+    text-align: justify;
+    color:#FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: normal;
+}
+.Text4{
+    text-align: justify;
+    color:#FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: normal;
+}
+.Text5{
+    text-align: justify;
+    color:#FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: normal;
+}
